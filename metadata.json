@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield",
+  "description": "Suspicious message and URL detector that analyses SMS, WhatsApp, email, and links with explainable risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
